@@ -17,9 +17,10 @@ int main(void)
                 printf(" ");
             }
         }
-        for (c=1;c<=5;c++)
+        a= a-2;
+        for (c=1;c<r;c++)
         {
-            
+            printf("%d",a--);
         }
         printf("\n");
     }
