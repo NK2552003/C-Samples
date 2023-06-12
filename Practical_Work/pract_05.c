@@ -23,5 +23,5 @@ int main(void)
     {
         printf("Given number is not a prime number\n");
     }
-    return
+    return 0;
 }

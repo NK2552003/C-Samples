@@ -35,7 +35,7 @@ void opt(int arr[],int size)
     {
         printf("%d, ",arr[i]);
     }
-    printf("}");
+    printf("}\n");
 }
 
 //main body of the file that we made 
